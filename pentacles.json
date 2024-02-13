@@ -1,0 +1,88 @@
+{
+    "pentacles": [
+        {
+            "name": "Ace of Pentacles",
+            "number": 1,
+            "upright": "Manifestation, new financial opportunity, prosperity",
+            "reversed": "Lost opportunity, lack of planning and foresight"
+        },
+        {
+            "name": "Two of Pentacles",
+            "number": 2,
+            "upright": "Multiple priorities, time management, prioritization, adaptability",
+            "reversed": "Over-committed, disorganization, reprioritization"
+        },
+        {
+            "name": "Three of Pentacles",
+            "number": 3,
+            "upright": "Teamwork, initial fulfilment, collaboration, learning",
+            "reversed": "Disharmony, misalignment, working alone"
+        },
+        {
+            "name": "Four of Pentacles",
+            "number": 4,
+            "upright": "Saving money, security, conservatism, scarcity, control",
+            "reversed": "Over-spending, greed, self-protection"
+        },
+        {
+            "name": "Five of Pentacles",
+            "number": 5,
+            "upright": "Financial loss, poverty, lack mindset, isolation, worry",
+            "reversed": "Recovery from financial loss, spiritual poverty"
+        },
+        {
+            "name": "Six of Pentacles",
+            "number": 6,
+            "upright": "Giving, receiving, sharing wealth, generosity, charity",
+            "reversed": "Self-care, unpaid debts, one-sided charity"
+        },
+        {
+            "name": "Seven of Pentacles",
+            "number": 7,
+            "upright": "Long-term view, sustainable results, perseverance, investment",
+            "reversed": "Lack of long-term vision, limited success or reward"
+        },
+        {
+            "name": "Eight of Pentacles",
+            "number": 8,
+            "upright": "Apprenticeship, repetitive tasks, mastery, skill development",
+            "reversed": "Perfectionism, lacking ambition or focus"
+        },
+        {
+            "name": "Nine of Pentacles",
+            "number": 9,
+            "upright": "Abundance, luxury, self-sufficiency, financial independence",
+            "reversed": "Self-worth, over-investment in work, hustling"
+        },
+        {
+            "name": "Ten of Pentacles",
+            "number": 10,
+            "upright": "Wealth, financial security, family, long-term success, contribution",
+            "reversed": "The dark side of wealth, financial failure or loss"
+        },
+        {
+            "name": "Page of Pentacles",
+            "number": 11,
+            "upright": "Manifestation, financial opportunity, new job",
+            "reversed": "Lack of progress, short-term focus, procrastination, delaying"
+        },
+        {
+            "name": "Knight of Pentacles",
+            "number": 12,
+            "upright": "Efficiency, routine, conservatism, methodical",
+            "reversed": "Boredom, feeling 'stuck', perfectionism"
+        },
+        {
+            "name": "Queen of Pentacles",
+            "number": 13,
+            "upright": "Practical, homely, motherly, down-to-earth, security",
+            "reversed": "Imbalance in work/ family commitments"
+        },
+        {
+            "name": "King of Pentacles",
+            "number": 14,
+            "upright": "Wealth, business, leadership, security, discipline, abundance",
+            "reversed": "Financially inept, obsessed with wealth and status"
+        }
+    ]
+}

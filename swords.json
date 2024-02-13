@@ -1,0 +1,88 @@
+{
+    "swords": [
+        {
+            "name": "Ace of Swords",
+            "number": 1,
+            "upright": "Breakthrough, clarity, sharp mind",
+            "reversed": "Confusion, brutality, chaos"
+        },
+        {
+            "name": "Two of Swords",
+            "number": 2,
+            "upright": "Difficult decisions, weighing options, stalemate",
+            "reversed": "Indecision, confusion, information overload"
+        },
+        {
+            "name": "Three of Swords",
+            "number": 3,
+            "upright": "Heartbreak, suffering, grief",
+            "reversed": "Recovery, forgiveness, moving on"
+        },
+        {
+            "name": "Four of Swords",
+            "number": 4,
+            "upright": "Rest, relaxation, meditation",
+            "reversed": "Restlessness, burnout, stress"
+        },
+        {
+            "name": "Five of Swords",
+            "number": 5,
+            "upright": "Conflict, tension, loss",
+            "reversed": "Reconciliation, making amends, past resentment"
+        },
+        {
+            "name": "Six of Swords",
+            "number": 6,
+            "upright": "Transition, change, rite of passage",
+            "reversed": "Resistance to change, personal transition, unfinished business"
+        },
+        {
+            "name": "Seven of Swords",
+            "number": 7,
+            "upright": "Deception, trickery, tactics and strategy",
+            "reversed": "Coming clean, rethinking approach, deception"
+        },
+        {
+            "name": "Eight of Swords",
+            "number": 8,
+            "upright": "Isolation, self-imposed restriction, imprisonment",
+            "reversed": "Self acceptance, new perspective, freedom"
+        },
+        {
+            "name": "Nine of Swords",
+            "number": 9,
+            "upright": "Anxiety, worry, fear",
+            "reversed": "Hope, reaching out, despair"
+        },
+        {
+            "name": "Ten of Swords",
+            "number": 10,
+            "upright": "Failure, collapse, defeat",
+            "reversed": "Can't get worse, only upwards, inevitable end"
+        },
+        {
+            "name": "Page of Swords",
+            "number": 11,
+            "upright": "Curiosity, restlessness, mental energy",
+            "reversed": "Deception, manipulation, all talk"
+        },
+        {
+            "name": "Knight of Swords",
+            "number": 12,
+            "upright": "Action, impulsiveness, defending beliefs",
+            "reversed": "No direction, disregard for consequences, unpredictability"
+        },
+        {
+            "name": "Queen of Swords",
+            "number": 13,
+            "upright": "Complexity, perceptiveness, clear mindedness",
+            "reversed": "Cold hearted, cruel, bitterness"
+        },
+        {
+            "name": "King of Swords",
+            "number": 14,
+            "upright": "Head over heart, discipline, truth",
+            "reversed": "Manipulative, tyrannical, abusive"
+        }
+    ]
+}

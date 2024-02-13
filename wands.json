@@ -1,0 +1,88 @@
+{
+    "wands": [
+        {
+            "name": "Ace of Wands",
+            "number": 1,
+            "upright": "Inspiration, new opportunities, growth, potential",
+            "reversed": "An emerging idea, lack of direction, distractions, delays"
+        },
+        {
+            "name": "Two of Wands",
+            "number": 2,
+            "upright": "Future planning, progress, decisions, discovery",
+            "reversed": "Personal goals, inner alignment, fear of unknown, lack of planning"
+        },
+        {
+            "name": "Three of Wands",
+            "number": 3,
+            "upright": "Progress, expansion, foresight, overseas opportunities",
+            "reversed": "Playing small, lack of foresight, unexpected delays"
+        },
+        {
+            "name": "Four of Wands",
+            "number": 4,
+            "upright": "Celebration, joy, harmony, relaxation, homecoming",
+            "reversed": "Personal celebration, inner harmony, conflict with others, transition"
+        },
+        {
+            "name": "Five of Wands",
+            "number": 5,
+            "upright": "Conflict, disagreements, competition, tension, diversity",
+            "reversed": "Inner conflict, conflict avoidance, increased focus on goals"
+        },
+        {
+            "name": "Six of Wands",
+            "number": 6,
+            "upright": "Success, public recognition, progress, self-confidence",
+            "reversed": "Private achievement, personal definition of success, fall from grace, egotism"
+        },
+        {
+            "name": "Seven of Wands",
+            "number": 7,
+            "upright": "Challenge, competition, protection, perseverance",
+            "reversed": "Exhaustion, giving up, overwhelmed, overly protective"
+        },
+        {
+            "name": "Eight of Wands",
+            "number": 8,
+            "upright": "Movement, fast paced change, action, alignment, air travel",
+            "reversed": "Delays, frustration, resisting change, internal alignment"
+        },
+        {
+            "name": "Nine of Wands",
+            "number": 9,
+            "upright": "Resilience, courage, persistence, test of faith, boundaries",
+            "reversed": "Defensiveness, paranoia, weary, stubbornness"
+        },
+        {
+            "name": "Ten of Wands",
+            "number": 10,
+            "upright": "Burden, extra responsibility, hard work, completion",
+            "reversed": "Doing it all, carrying the burden, delegation, release"
+        },
+        {
+            "name": "Page of Wands",
+            "number": 11,
+            "upright": "Inspiration, ideas, discovery, limitless potential, free spirit",
+            "reversed": "Newly formed ideas, redirecting energy, self-limiting beliefs, a spiritual path"
+        },
+        {
+            "name": "Knight of Wands",
+            "number": 12,
+            "upright": "Energy, passion, inspired action, adventure, impulsiveness",
+            "reversed": "Passion project, haste, scattered energy, delays, frustration"
+        },
+        {
+            "name": "Queen of Wands",
+            "number": 13,
+            "upright": "Courage, confidence, independence, social butterfly, determination",
+            "reversed": "Self-respect, self-confidence, introverted, re-establish sense of self"
+        },
+        {
+            "name": "King of Wands",
+            "number": 14,
+            "upright": "Natural-born leader, vision, entrepreneur, honour",
+            "reversed": "Impulsiveness, haste, ruthless, high expectations"
+        }
+    ]
+}

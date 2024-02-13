@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JSON Data</title>
+    <style>
+        ul {
+            list-style-type: none;
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        {% for key, value in data.items() %}
+            <li><strong>{{ key }}:</strong>
+                <ul>
+                    {% for item in value %}
+                        <li>{{ item.name }} - Upright: {{ item.upright }}, Reversed: {{ item.reversed }}</li>
+                    {% endfor %}
+                </ul>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

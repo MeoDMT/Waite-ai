@@ -1,0 +1,88 @@
+{
+    "cups": [
+        {
+            "name": "Ace of Cups",
+            "number": 1,
+            "upright": "Love, new relationships, compassion, creativity",
+            "reversed": "Self-love, intuition, repressed emotions"
+        },
+        {
+            "name": "Two of Cups",
+            "number": 2,
+            "upright": "Unified love, partnership, mutual attraction",
+            "reversed": "Self-love, break-ups, disharmony"
+        },
+        {
+            "name": "Three of Cups",
+            "number": 3,
+            "upright": "Celebration, friendship, creativity, collaborations",
+            "reversed": "Independence, alone time, hardcore partying"
+        },
+        {
+            "name": "Four of Cups",
+            "number": 4,
+            "upright": "Meditation, contemplation, apathy, reevaluation",
+            "reversed": "Retreat, withdrawal, checking in for alignment"
+        },
+        {
+            "name": "Five of Cups",
+            "number": 5,
+            "upright": "Regret, failure, disappointment, pessimism",
+            "reversed": "Personal setbacks, self-forgiveness, moving on"
+        },
+        {
+            "name": "Six of Cups",
+            "number": 6,
+            "upright": "Revisiting the past, childhood memories, innocence, joy",
+            "reversed": "Living in the past, forgiveness, lacking playfulness"
+        },
+        {
+            "name": "Seven of Cups",
+            "number": 7,
+            "upright": "Opportunities, choices, wishful thinking, illusion",
+            "reversed": "Alignment, personal values, overwhelmed by choices"
+        },
+        {
+            "name": "Eight of Cups",
+            "number": 8,
+            "upright": "Disappointment, abandonment, withdrawal, escapism",
+            "reversed": "Trying one more time, indecision, aimless drifting"
+        },
+        {
+            "name": "Nine of Cups",
+            "number": 9,
+            "upright": "Contentment, satisfaction, gratitude, wish come true",
+            "reversed": "Lack of inner joy, smugness, dissatisfaction"
+        },
+        {
+            "name": "Ten of Cups",
+            "number": 10,
+            "upright": "Divine love, blissful relationships, harmony, alignment",
+            "reversed": "Misalignment of values, broken home or family disputes"
+        },
+        {
+            "name": "Page of Cups",
+            "number": 11,
+            "upright": "Creative opportunities, intuitive messages, curiosity, possibility",
+            "reversed": "New ideas, doubting intuition, creative blocks, emotional immaturity"
+        },
+        {
+            "name": "Knight of Cups",
+            "number": 12,
+            "upright": "Creativity, romance, charm, imagination, beauty",
+            "reversed": "Overactive imagination, unrealistic, jealous, moody"
+        },
+        {
+            "name": "Queen of Cups",
+            "number": 13,
+            "upright": "Compassionate, caring, emotionally stable, intuitive, in flow",
+            "reversed": "Inner feelings, self-care, self-love, co-dependency"
+        },
+        {
+            "name": "King of Cups",
+            "number": 14,
+            "upright": "Emotionally balanced, compassionate, diplomatic",
+            "reversed": "Self-compassion, inner feelings, moodiness, emotionally manipulative"
+        }
+    ]
+}
